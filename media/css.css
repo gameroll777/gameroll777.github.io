@@ -1,0 +1,236 @@
+/* GLOBAL*/
+
+body {
+  background-color: #723c96;
+  margin:18px;
+}
+.titol {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 35px;
+  color: black;
+  text-align: center;
+}
+table {
+  width: 100%;
+}
+.menui {
+  text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 24px;
+  padding: 10px;
+  background-color: purple;
+  border-collapse: collapse;
+  text-align: center;
+  border-radius: 10px;
+  }
+
+.fons td {;
+  margin-right: 10px;
+  text-align: right;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  text-decoration: underline 0.4px;
+  color:white;
+}
+}
+.peudp {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: center;
+}
+.textf {
+  text-align: center;
+}
+
+img{
+display:block;
+}
+
+.linici{
+  border-bottom:3px solid black;
+}
+.text1{
+  font-size:1.5em;
+text-align: left;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  padding:30px
+}
+.ts{
+  text-align: center;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Index*/
+.imatge1{
+  margin: auto;
+  border: 3px solid #000000;
+  display:block;
+}
+/* Sobre Nosaltres*/
+
+.quisom{
+  display: block;
+  margin: auto;
+}
+.noms{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+}
+.textjust{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.imatgessn{
+  border: 3px solid #000000;
+  padding: 3px;
+}
+.taula{
+  width: 90%;
+  margin: auto;
+}
+.gmaps{
+  border: 3px solid #000000;
+  margin: left;
+  display: block;
+ 
+}
+.text2{
+  font-size:1.3em;
+text-align: left;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  padding:30px
+}
+.nft{
+  font-size:1.4em;
+text-align: left;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  text-align: left;
+}
+.ia{
+  margin: auto;
+}
+/* Els nostres serveis*/
+t1{
+  margin-right: 20px;
+  width: 90%;
+  margin: auto;
+}
+.t2{
+  margin-left: 20px;
+  width: 90%;
+  margin: auto;
+}
+  .table1 {
+    margin: auto;
+    width: 50%;
+    border-collapse: collapse;
+    border-radius: 4px;
+  }
+.imatgeclase{
+  border: 3px solid #ffffff;
+  margin: left;
+  display: block;
+  width: 300px;
+  height: 300px;
+}
+ .th1, .th2 {
+   width: 50%;
+ }
+.tdser1 {
+font-size:1.2em;
+   text-align:left;
+   font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 20px;
+  padding-left: 20px;
+ 
+}
+ .tdser {
+   padding: 20px;
+   text-align: center;
+   border: 3px solid white;
+   font-family: Arial, Helvetica, sans-serif;
+   color: lightgray;
+   border-radius: 3px;
+ }
+ th {
+   background-color: #511b93; 
+   font-family: Arial, Helvetica, sans-serif;
+   color: white; 
+   border: 2px solid white;
+   font-size: 1.5em;
+   padding: 20px; 
+   border-radius: 3px;
+ }
+.con{
+  background-color: #563a98;
+  padding: 20px;
+   text-align: center;
+   border: 3px solid white;
+   font-family: Arial, Helvetica, sans-serif;
+   color: lightgray;
+  font-size: 2em;
+}
+.con:hover{
+  background-color: gray;
+}
+  
+}
+/*Contacte*/
+.form-contacte {
+    background-color: #563a98;
+    padding: 20px;
+    border-radius: 8px;
+    width: 100%;
+  
+   font-family: Arial, Helvetica, sans-serif;
+  margin:auto;
+  display:block;
+}
+.preguntes{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  color: #013e8e;
+}
+.dades, .cont {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+   font-family: Arial, Helvetica, sans-serif;
+  color: purple;
+  background-color: darkgrey;
+  resize:none
+}
+
+.enviar {
+    background-color: #2e59bd;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.enviar:hover {
+    background-color: #142433;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.fotocontacte{
+    margin: auto;
+  padding-bottom: 44.9px;
+    display:block;
+  width: 100%;
+}
+.xs{
+  margin: auto;
+}
